@@ -42,6 +42,8 @@
   },
   "url": "www.crunchyroll.com",
   "regExp": "^https?[:][/][/](www[.])?crunchyroll[.]com[/]",
+  "iframe": true,
+  "iFrameRegExp": "static.crunchyroll.com",
   "version": "3.4.1",
   "logo": "https://cdn.rcd.gg/PreMiD/websites/C/Crunchyroll/assets/logo.png",
   "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/C/Crunchyroll/assets/thumbnail.png",
